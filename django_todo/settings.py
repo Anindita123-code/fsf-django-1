@@ -27,7 +27,7 @@ SECRET_KEY = 'sphi%2wf4b@6$+n0k&b(g!i75ow1olrj$5hb3c25ppbh46-$gt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['django-todo-anindita.herokuapp.com/']
+ALLOWED_HOSTS = ['django-todo-anindita.herokuapp.com']
 
 
 # Application definition
